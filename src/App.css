@@ -1,0 +1,43 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: left;
+}
+
+.app-container {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.mode-selector {
+  margin-bottom: 20px;
+}
+
+.input-section {
+  margin-bottom: 20px;
+}
+
+.upload-section {
+  margin-bottom: 20px;
+}
+
+.result-section {
+  margin-top: 20px;
+}
+
+.result-media {
+  max-width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.loading-section {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.generate-button {
+  margin-top: 20px;
+}
