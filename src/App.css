@@ -3,6 +3,10 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: left;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
 }
 
 .app-container {
